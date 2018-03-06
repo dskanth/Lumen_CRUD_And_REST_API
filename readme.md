@@ -1,6 +1,6 @@
-# Products List API Client
+# Products List CRUD with Lumen and Angular JS 1
 
-Application that consists on an API REST using Lumen (PHP) and AngularJS.
+Application that demonstrates API REST using Lumen (PHP) and Angular 1.
 
 ## Lumen PHP Framework
 
@@ -15,4 +15,4 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 ## Screenshot
 
 
-![](https://raw.githubusercontent.com/guillermo-maquieira/lumen/master/demo.png)
+![](https://github.com/dskanth/Lumen_CRUD_AngularJS_Example/blob/master/lumen_angular_crud.JPG)
