@@ -2,6 +2,8 @@
 
 Application that demonstrates API REST using Lumen (PHP) and Angular 1.
 
+Original repo: https://github.com/guillermo-maquieira/lumen 
+
 ## Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
