@@ -19,6 +19,5 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 ## Steps to deploy
 
-> Create a database in your PhpMyAdmin, and import the products.sql file to it
-> Specify the database settings in the .env file
-
+1. Create a database in your PhpMyAdmin, and import the products.sql file to it
+2. Specify the database settings in the .env file
