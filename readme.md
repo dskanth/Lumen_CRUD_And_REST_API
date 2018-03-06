@@ -16,3 +16,9 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 
 ![](https://github.com/dskanth/Lumen_CRUD_AngularJS_Example/blob/master/lumen_angular_crud.JPG)
+
+## Steps to deploy
+
+> Create a database in your PhpMyAdmin, and import the products.sql file to it
+> Specify the database settings in the .env file
+
