@@ -1,5 +1,5 @@
 # Products List CRUD with Lumen and Angular JS 1
-# Notes REST API
+# Notes REST API with Lumen
 
 Application that demonstrates API REST using Lumen (PHP) and Angular 1.
 
@@ -24,3 +24,12 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 1. Create a database in your PhpMyAdmin, and import the database.sql file to it
 2. Specify the database configuration in the .env file
+
+## Testing the Notes REST API
+
+1. Get all notes: host.com/api/v1/notes
+2. Get notes by id: host.com/api/v1/note/{id}
+3. Get notes of a user: host.com/api/v1/notes/user/{username}
+4. Add a new note: Send a Post request to: host.com/api/v1/note
+5. Update a note: Send a PUT request to: host.com/api/v1/note/{id}
+6. Delete a note: Send a DELETE request to: host.com/api/v1/note/{id}
