@@ -1,3 +1,5 @@
+## This repository covers the following:
+
 # Products List CRUD with Lumen and Angular JS 1
 # Notes REST API with Lumen
 
