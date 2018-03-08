@@ -1,4 +1,5 @@
 # Products List CRUD with Lumen and Angular JS 1
+# Notes REST API
 
 Application that demonstrates API REST using Lumen (PHP) and Angular 1.
 
@@ -21,5 +22,5 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 ## Steps to deploy
 
-1. Create a database in your PhpMyAdmin, and import the products.sql file to it
-2. Specify the database settings in the .env file
+1. Create a database in your PhpMyAdmin, and import the database.sql file to it
+2. Specify the database configuration in the .env file
