@@ -10,6 +10,11 @@
 
 <div ng-app="myApp" ng-controller="productsCtrl">
 
+<div style="border:2px solid green; margin:10px; padding:10px; text-align:center; font-size:20px;">
+<a href="read-products">Products Json</a> | 
+<a href="api/v1/notes">Angular CRUD Notes</a>
+</div>
+
 <!-- Table-to-load-the-data Part -->
 	<table class="table">
 		<thead>
